@@ -1,2 +1,2 @@
-# introduccion-kotlin-curso-3
+#introduccion kotlin para principiantes
 curso 3
